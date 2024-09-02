@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "300709712903",
+    "project_id": "pictures-e9dc5",
+    "storage_bucket": "pictures-e9dc5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300709712903:android:dce82306ba1bda768006a2",
+        "android_client_info": {
+          "package_name": "com.henrasta.opad"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhlnZkcSgRN9cl2NndOe7uEzhJP3F3aeg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
